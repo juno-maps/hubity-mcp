@@ -4,7 +4,7 @@
 
 Month-end billing for consulting, architecture and engineering firms: your AI assistant previews each invoice from approved time, retainers and progress billing, then drafts them for your review.
 
-Hubity runs projects, time, billing and utilization for consulting, architecture, engineering and agency firms. Connect your AI assistant to Hubity and ask in plain words, and the answer comes from your own records.
+Hubity runs projects, time, billing and utilization for consulting, architecture, engineering and agency firms. Connect your AI assistant to Hubity and ask in plain words, and the answer comes from your own records, including your past proposals and your firm's knowledge base.
 
 This repository holds the public documentation and registry entry for Hubity's hosted MCP server. The server itself runs at Hubity; there is nothing to install.
 
@@ -72,10 +72,17 @@ Reading needs your sign-in and approval and follows your role; drafting invoices
 Privacy policy: https://hubity.io/privacy#ai-assistants
 Terms: https://hubity.io/terms
 
+## Learn more
+
+- [Free calculators](https://hubity.io/tools): utilization rate, billing rate and multiplier, fee estimate, and a progress billing template
+- [Guides for architecture, engineering and consulting firms](https://hubity.io/guides): go/no-go decisions, pricing a fee, progress billing, WIP, utilization
+- [Glossary](https://hubity.io/glossary) of project, proposal and billing terms
+- [Compare Hubity](https://hubity.io/compare) with Deltek, BQE CORE, Unanet, Monograph, BigTime, Harvest and others
+
 ## Support
 
 - Email: support@hubity.io
 - Security reports: security@hubity.io (see [SECURITY.md](SECURITY.md))
 - Status: https://hubity.io/status
 
-Hubity is made by Juno Maps.
+Hubity is made by Juno Maps. The documentation in this repository is licensed under [CC BY 4.0](LICENSE).
