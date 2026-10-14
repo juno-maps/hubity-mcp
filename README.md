@@ -72,6 +72,13 @@ Reading needs your sign-in and approval and follows your role; drafting invoices
 Privacy policy: https://hubity.io/privacy#ai-assistants
 Terms: https://hubity.io/terms
 
+## Find Hubity in
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.hubity/hubity) (`io.hubity/hubity`)
+- [Glama](https://glama.ai/mcp/connectors/io.hubity/hubity)
+- [Smithery](https://smithery.ai/servers/hubity/hubity)
+- [MCP.so](https://mcp.so/servers/hubity)
+
 ## Learn more
 
 - [Free calculators](https://hubity.io/tools): utilization rate, billing rate and multiplier, fee estimate, and a progress billing template
